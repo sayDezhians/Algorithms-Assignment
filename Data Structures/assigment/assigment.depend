@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619176984 source:c:\users\sammy\documents\new folder\assigment\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
